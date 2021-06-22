@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299080760591",
+    "firebase_url": "https://iot-nodemcu-5d0e6-default-rtdb.firebaseio.com",
+    "project_id": "iot-nodemcu-5d0e6",
+    "storage_bucket": "iot-nodemcu-5d0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299080760591:android:518d87ee3756318ba0927a",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiitik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299080760591-drm6ssns3seprtpqej84lo6c5soakb9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGw4OyvsDGIGJ5dRJwc52Jr56zSUe3Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299080760591-drm6ssns3seprtpqej84lo6c5soakb9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
